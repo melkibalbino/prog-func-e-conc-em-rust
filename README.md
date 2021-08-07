@@ -13,7 +13,7 @@ Repositorio com intuito de acompanhar o livro **Programação Funcional e Concor
     - [x] - Programação concorrente
     - [x] - Mais sobre Rust
 3. TDD em Rust
-    - [ ] - Por que TDD?
+    - [x] - Por que TDD?
     - [ ] - Um exemplo em Rust
 
 ### Parte 2 – Programação Funcional
