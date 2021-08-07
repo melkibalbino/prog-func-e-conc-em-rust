@@ -7,8 +7,8 @@ Repositorio com intuito de acompanhar o livro **Programação Funcional e Concor
 1. Introdução ao Rust
     - [x] - História do Rust
 2. Por que Rust?
-    - [ ] - Type Safety
-    - [ ] - Entendimento da linguagem e sua sintaxe
+    - [x] - Type Safety
+    - [x] - Entendimento da linguagem e sua sintaxe
     - [ ] - Segurança de memória
     - [ ] - Programação concorrente
     - [ ] - Mais sobre Rust
