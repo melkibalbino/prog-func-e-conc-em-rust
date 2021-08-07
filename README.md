@@ -9,9 +9,9 @@ Repositorio com intuito de acompanhar o livro **Programação Funcional e Concor
 2. Por que Rust?
     - [x] - Type Safety
     - [x] - Entendimento da linguagem e sua sintaxe
-    - [ ] - Segurança de memória
-    - [ ] - Programação concorrente
-    - [ ] - Mais sobre Rust
+    - [x] - Segurança de memória
+    - [x] - Programação concorrente
+    - [x] - Mais sobre Rust
 3. TDD em Rust
     - [ ] - Por que TDD?
     - [ ] - Um exemplo em Rust
