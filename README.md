@@ -5,7 +5,7 @@ Repositorio com intuito de acompanhar o livro **Programação Funcional e Concor
 
 ### Parte 1 – Por que Rust?
 1. Introdução ao Rust
-    - [ ] - História do Rust
+    - [x] - História do Rust
 2. Por que Rust?
     - [ ] - Type Safety
     - [ ] - Entendimento da linguagem e sua sintaxe
