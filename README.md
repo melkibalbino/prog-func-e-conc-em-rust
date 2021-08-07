@@ -45,31 +45,25 @@ Repositorio com intuito de acompanhar o livro **Programação Funcional e Concor
     - [ ] - Funções interessantes
 
 ### Parte 3 – Programação concorrente
-
 10. O que é programação concorrente?
     - [ ] - Definição de concorrência
     - [ ] - E o Rust? Como fica?
     - [ ] - Quando utilizar concorrência?
-
 11. Threads — A base da programação concorrente
     - [ ] - Lançando muitas threads
     - [ ] - Panic! at the Thread
     - [ ] - Threads seguras
-
 12. Estados compartilhados
     - [ ] - Estados compartilhados
-
 13. Comunicação entre threads
     - [ ] - Criando channels MPSC
     - [ ] - Como funciona?
     - [ ] - Comunicação assíncrona e síncrona
-
 14. Assincronicidade em Rust
     - [ ] - Async-await
     - [ ] - Runtime Tokio
     - [ ] - Canais do Tokio
     - [ ] - Sincronização de estado
-
 15. Atores com Actix
     - [ ] - Fazendo um request com Actix
     - [ ] - Registrando no banco de dados
@@ -77,22 +71,18 @@ Repositorio com intuito de acompanhar o livro **Programação Funcional e Concor
     - [ ] - Gerando um BrCode
 
 ### Parte 4 – Aplicando nossos conhecimentos
-
 16. Consolidando todos os temas com Iron
     - [ ] - Iron
     - [ ] - Mais detalhes do Iron
     - [ ] - Iron testes
-
 17. Brincando com Nickel
     - [ ] - Routing
     - [ ] - Lidando com JSON
     - [ ] - Templates em Nickel
-
 18. Hyper: servidores desenvolvidos no mais baixo nível
     - [ ] - Criando um servidor Hello World mais robusto
     - [ ] - Fazendo nosso servidor responder um Post
     - [ ] - Uma API GraphQL com Hyper e Juniper
-
 19. Tokio para web e a assincronicidade
     - [ ] - Tokio-proto e Tokio-core
     - [ ] - Futures
