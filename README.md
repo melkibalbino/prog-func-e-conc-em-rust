@@ -18,9 +18,9 @@ Repositorio com intuito de acompanhar o livro **Programação Funcional e Concor
 
 ### Parte 2 – Programação Funcional
 4. O que é programação Funcional?
-    - [ ] - Imutabilidade
-    - [ ] - Laziness
-    - [ ] - Funções
+    - [x] - Imutabilidade
+    - [x] - Laziness
+    - [x] - Funções
 5. Definindo funções
     - [ ] - Funções de ordem superior
     - [ ] - Funções anônimas
